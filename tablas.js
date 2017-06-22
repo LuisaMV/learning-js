@@ -6,7 +6,7 @@ var printTables = function(number) {
   }
 }
 
-printTables(10);
+printTables(100);
 
 /*
 i=1  j=1
